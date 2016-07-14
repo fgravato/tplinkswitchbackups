@@ -10,6 +10,7 @@ A Linux or BSD Based System
 * Will work with OSX provided your using Brew with Python 2.7.10+
 * Python 2.7.10+
 * TFTP Server 
+* Python Pexpect
 * Expect 5.45+
 
 
